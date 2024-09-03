@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Profile>
+    <No>1</No>
+    <Name>Divy</Name>
+    <Hobbies>
+        <Hobby>cricket</Hobby>
+        <Hobby>exploring new places</Hobby>
+        <Hobby>music</Hobby>
+        <Hobby>explore new culture</Hobby>
+    </Hobbies>
+    <No>2</No>
+    <Name>Ritesh</Name>
+    <Hobbies>
+        <Hobby>cricket</Hobby>
+        <Hobby>music</Hobby>
+        <Hobby>Reading</Hobby>
+    </Hobbies>
+    <No>3</No>
+    <Name>Isha</Name>
+    <Hobbies>
+        <Hobby>Dance</Hobby>
+        <Hobby>music</Hobby>
+        <Hobby>Eating</Hobby>
+    </Hobbies>
+    <No>4</No>
+    <Name>Dhaval</Name>
+    <Hobbies>
+        <Hobby>cricket</Hobby>
+        <Hobby>Football</Hobby>
+        <Hobby>Writing</Hobby>
+    </Hobbies>
+    <No>5</No>
+    <Name>Bilal</Name>
+    <Hobbies>
+        <Hobby>Sleeping</Hobby>
+        <Hobby>FootBall</Hobby>
+        <Hobby>playing Games</Hobby>
+    </Hobbies>
+    <No>6</No>
+    <Name>Christian</Name>
+    <Hobbies>
+        <Hobby>Football</Hobby>
+        <Hobby>Fitness</Hobby>
+        <Hobby>Movies</Hobby>
+    </Hobbies>
+    <No>7</No>
+    <Name>Narendara</Name>
+    <Hobbies>
+        <Hobby>cricket</Hobby>
+        <Hobby>Writing</Hobby>
+        <Hobby>Reading</Hobby>
+    </Hobbies>
+    <No>8</No>
+    <Name>Preetam</Name>
+    <Hobbies>
+        <Hobby>FootBall</Hobby>
+        <Hobby>Playing Games</Hobby>
+        <Hobby>Reading</Hobby>
+    </Hobbies>
+    <No>9</No>
+    <Name>Karol</Name>
+    <Hobbies>
+        <Hobby>dance</Hobby>
+        <Hobby>music</Hobby>
+        <Hobby>Reading</Hobby>
+    </Hobbies>
+    <No>10</No>
+    <Name>sahitya</Name>
+    <Hobbies>
+        <Hobby>dancing</Hobby>
+        <Hobby>Writing</Hobby>
+        <Hobby>Reading</Hobby>
+    </Hobbies>
+</Profile>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BusinessCards>
+    <Contact>
+        <Name>Rorie Demanche</Name>
+        <Phone>
+            <Type>home</Type>
+            <Number>+1 (710) 153-4949</Number>
+        </Phone>
+        <Phone>
+            <Type>work</Type>
+            <Number>+1 (503) 319-3558</Number>
+        </Phone>
+        <Phone>
+            <Type>mobile</Type>
+            <Number>+1 (182) 748-1667</Number>
+        </Phone>
+        <Email>rdemanche0@foxnews.com</Email>
+    </Contact>
+    
+    <Contact>
+        <Name>Kelcey Surman</Name>
+        <Phone>
+            <Type>home</Type>
+            <Number>+1 (249) 926-7376</Number>
+        </Phone>
+        <Phone>
+            <Type>work</Type>
+            <Number>+1 (208) 363-6588</Number>
+        </Phone>
+        <Phone>
+            <Type>mobile</Type>
+            <Number>+1 (982) 536-6860</Number>
+        </Phone>
+        <Email>ksurman1@usnews.com</Email>
+    </Contact>
+    
+    <Contact>
+        <Name>Simon Heddan</Name>
+        <Phone>
+            <Type>home</Type>
+            <Number>+1 (687) 808-4290</Number>
+        </Phone>
+        <Phone>
+            <Type>work</Type>
+            <Number>+1 (604) 815-7810</Number>
+        </Phone>
+        <Phone>
+            <Type>mobile</Type>
+            <Number>+1 (924) 174-3271</Number>
+        </Phone>
+        <Email>sheddan2@alexa.com</Email>
+    </Contact>
+    
+    <Contact>
+        <Name>Chan Supple</Name>
+        <Phone>
+            <Type>home</Type>
+            <Number>+1 (577) 165-2495</Number>
+        </Phone>
+        <Phone>
+            <Type>work</Type>
+            <Number>+1 (547) 934-7337</Number>
+        </Phone>
+        <Phone>
+            <Type>mobile</Type>
+            <Number>+1 (367) 667-0747</Number>
+        </Phone>
+        <Email>csupple3@123-reg.co.uk</Email>
+    </Contact>
+</BusinessCards>
